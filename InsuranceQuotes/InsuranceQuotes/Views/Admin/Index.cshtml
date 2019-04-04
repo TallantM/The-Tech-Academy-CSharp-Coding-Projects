@@ -1,0 +1,29 @@
+﻿@using InsuranceQuotes.Models
+@model List<Driver>
+
+<div class="row no-gutters m-3">
+    <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
+        <div class="card-header text-center">
+            <h5 class="m-0">Quotes Issued:</h5>
+        </div>
+        <div class="card-body">
+            @foreach (var driver in Model)
+            {
+                <div class="row">
+                    <div class="col">
+                        @driver.FirstName
+                    </div>
+                    <div class="col">
+                        @driver.LastName
+                    </div>
+                    <div class="col">
+                        @driver.EmailAddress
+                    </div>
+                    <div class="col">
+                        @driver.Quote
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
