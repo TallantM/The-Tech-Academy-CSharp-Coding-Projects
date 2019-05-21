@@ -1,0 +1,7 @@
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\Structs\Structs\obj\Debug\Structs.csprojAssemblyReference.cache
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\Structs\Structs\obj\Debug\Structs.csproj.CoreCompileInputs.cache
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\Structs\Structs\bin\Debug\Structs.exe.config
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\Structs\Structs\bin\Debug\Structs.exe
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\Structs\Structs\bin\Debug\Structs.pdb
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\Structs\Structs\obj\Debug\Structs.exe
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\Structs\Structs\obj\Debug\Structs.pdb

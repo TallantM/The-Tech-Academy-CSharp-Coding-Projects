@@ -1,0 +1,7 @@
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\InsuranceApproval\InsuranceApproval\bin\Debug\InsuranceApproval.exe.config
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\InsuranceApproval\InsuranceApproval\bin\Debug\InsuranceApproval.exe
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\InsuranceApproval\InsuranceApproval\bin\Debug\InsuranceApproval.pdb
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.csprojAssemblyReference.cache
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.csproj.CoreCompileInputs.cache
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.exe
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.pdb

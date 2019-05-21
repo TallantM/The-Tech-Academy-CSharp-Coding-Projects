@@ -1,0 +1,7 @@
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\StringPractice\StringPractice\bin\Debug\StringPractice.exe.config
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\StringPractice\StringPractice\bin\Debug\StringPractice.exe
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\StringPractice\StringPractice\bin\Debug\StringPractice.pdb
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\StringPractice\StringPractice\obj\Debug\StringPractice.csprojAssemblyReference.cache
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\StringPractice\StringPractice\obj\Debug\StringPractice.csproj.CoreCompileInputs.cache
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\StringPractice\StringPractice\obj\Debug\StringPractice.exe
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\StringPractice\StringPractice\obj\Debug\StringPractice.pdb

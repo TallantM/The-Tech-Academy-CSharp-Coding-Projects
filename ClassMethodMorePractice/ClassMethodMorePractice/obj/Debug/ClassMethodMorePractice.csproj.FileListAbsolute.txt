@@ -1,0 +1,7 @@
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\ClassMethodMorePractice\ClassMethodMorePractice\obj\Debug\ClassMethodMorePractice.csprojAssemblyReference.cache
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\ClassMethodMorePractice\ClassMethodMorePractice\obj\Debug\ClassMethodMorePractice.csproj.CoreCompileInputs.cache
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\ClassMethodMorePractice\ClassMethodMorePractice\bin\Debug\ClassMethodMorePractice.exe.config
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\ClassMethodMorePractice\ClassMethodMorePractice\bin\Debug\ClassMethodMorePractice.exe
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\ClassMethodMorePractice\ClassMethodMorePractice\bin\Debug\ClassMethodMorePractice.pdb
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\ClassMethodMorePractice\ClassMethodMorePractice\obj\Debug\ClassMethodMorePractice.exe
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\ClassMethodMorePractice\ClassMethodMorePractice\obj\Debug\ClassMethodMorePractice.pdb

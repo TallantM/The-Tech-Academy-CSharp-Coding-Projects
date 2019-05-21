@@ -1,0 +1,7 @@
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\FileIO\FileIO\obj\Debug\FileIO.csprojAssemblyReference.cache
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\FileIO\FileIO\obj\Debug\FileIO.csproj.CoreCompileInputs.cache
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\FileIO\FileIO\bin\Debug\FileIO.exe.config
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\FileIO\FileIO\bin\Debug\FileIO.exe
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\FileIO\FileIO\bin\Debug\FileIO.pdb
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\FileIO\FileIO\obj\Debug\FileIO.exe
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\FileIO\FileIO\obj\Debug\FileIO.pdb

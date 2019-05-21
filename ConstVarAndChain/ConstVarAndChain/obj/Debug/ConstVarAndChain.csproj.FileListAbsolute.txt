@@ -1,0 +1,7 @@
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\ConstVarAndChain\ConstVarAndChain\bin\Debug\ConstVarAndChain.exe.config
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\ConstVarAndChain\ConstVarAndChain\bin\Debug\ConstVarAndChain.exe
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\ConstVarAndChain\ConstVarAndChain\bin\Debug\ConstVarAndChain.pdb
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\ConstVarAndChain\ConstVarAndChain\obj\Debug\ConstVarAndChain.csprojAssemblyReference.cache
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\ConstVarAndChain\ConstVarAndChain\obj\Debug\ConstVarAndChain.csproj.CoreCompileInputs.cache
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\ConstVarAndChain\ConstVarAndChain\obj\Debug\ConstVarAndChain.exe
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\ConstVarAndChain\ConstVarAndChain\obj\Debug\ConstVarAndChain.pdb

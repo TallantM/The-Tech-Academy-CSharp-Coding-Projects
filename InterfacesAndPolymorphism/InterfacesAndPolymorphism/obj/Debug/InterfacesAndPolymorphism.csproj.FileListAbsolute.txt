@@ -1,0 +1,7 @@
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\InterfacesAndPolymorphism\InterfacesAndPolymorphism\obj\Debug\InterfacesAndPolymorphism.csprojAssemblyReference.cache
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\InterfacesAndPolymorphism\InterfacesAndPolymorphism\obj\Debug\InterfacesAndPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\InterfacesAndPolymorphism\InterfacesAndPolymorphism\bin\Debug\InterfacesAndPolymorphism.exe.config
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\InterfacesAndPolymorphism\InterfacesAndPolymorphism\bin\Debug\InterfacesAndPolymorphism.exe
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\InterfacesAndPolymorphism\InterfacesAndPolymorphism\bin\Debug\InterfacesAndPolymorphism.pdb
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\InterfacesAndPolymorphism\InterfacesAndPolymorphism\obj\Debug\InterfacesAndPolymorphism.exe
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\InterfacesAndPolymorphism\InterfacesAndPolymorphism\obj\Debug\InterfacesAndPolymorphism.pdb

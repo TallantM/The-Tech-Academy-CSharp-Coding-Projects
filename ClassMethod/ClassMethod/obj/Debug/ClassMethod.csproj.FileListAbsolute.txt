@@ -1,0 +1,7 @@
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\ClassMethod\ClassMethod\bin\Debug\ClassMethod.exe.config
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\ClassMethod\ClassMethod\bin\Debug\ClassMethod.exe
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\ClassMethod\ClassMethod\bin\Debug\ClassMethod.pdb
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\ClassMethod\ClassMethod\obj\Debug\ClassMethod.csprojAssemblyReference.cache
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\ClassMethod\ClassMethod\obj\Debug\ClassMethod.csproj.CoreCompileInputs.cache
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\ClassMethod\ClassMethod\obj\Debug\ClassMethod.exe
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\ClassMethod\ClassMethod\obj\Debug\ClassMethod.pdb

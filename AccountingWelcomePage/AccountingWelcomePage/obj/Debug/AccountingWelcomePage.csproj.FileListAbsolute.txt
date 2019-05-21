@@ -1,0 +1,7 @@
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\AccountingWelcomePage\AccountingWelcomePage\bin\Debug\AccountingWelcomePage.exe.config
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\AccountingWelcomePage\AccountingWelcomePage\bin\Debug\AccountingWelcomePage.exe
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\AccountingWelcomePage\AccountingWelcomePage\bin\Debug\AccountingWelcomePage.pdb
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\AccountingWelcomePage\AccountingWelcomePage\obj\Debug\AccountingWelcomePage.csprojAssemblyReference.cache
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\AccountingWelcomePage\AccountingWelcomePage\obj\Debug\AccountingWelcomePage.csproj.CoreCompileInputs.cache
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\AccountingWelcomePage\AccountingWelcomePage\obj\Debug\AccountingWelcomePage.exe
+C:\Users\Michael J Tallant\Desktop\Projects\The-Tech-Academy-Basic-CSharp-Coding-Projects\AccountingWelcomePage\AccountingWelcomePage\obj\Debug\AccountingWelcomePage.pdb
